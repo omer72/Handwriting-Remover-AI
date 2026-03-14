@@ -142,7 +142,7 @@ const App: React.FC = () => {
         </div>
       </main>
       <footer className="text-center p-4 text-gray-500 text-sm">
-        Powered by Gemini API
+        Created by <a href="mailto:omer72@gmail.com" className="underline hover:text-gray-300">Omer Etrog</a>
       </footer>
     </div>
   );

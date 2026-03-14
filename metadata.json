@@ -1,0 +1,5 @@
+{
+  "name": "Handwriting Remover AI",
+  "description": "An application that uses AI to remove handwritten text from uploaded document images, leaving the original printed content clean and clear.",
+  "requestFramePermissions": []
+}
